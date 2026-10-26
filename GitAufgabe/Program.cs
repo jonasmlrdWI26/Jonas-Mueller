@@ -30,5 +30,7 @@ class Program
                 Console.WriteLine("Ungültige Auswahl.");
                 break;
         }
+        
+        Console.WriteLine("Text für den dritten Commit");
     }
 }
