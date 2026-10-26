@@ -1,0 +1,14 @@
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/bin/Debug/net10.0/GitAufgabe
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/bin/Debug/net10.0/GitAufgabe.deps.json
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/bin/Debug/net10.0/GitAufgabe.runtimeconfig.json
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/bin/Debug/net10.0/GitAufgabe.dll
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/bin/Debug/net10.0/GitAufgabe.pdb
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/GitAufgabe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/GitAufgabe.AssemblyInfoInputs.cache
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/GitAufgabe.AssemblyInfo.cs
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/GitAufgabe.csproj.CoreCompileInputs.cache
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/GitAufgabe.dll
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/refint/GitAufgabe.dll
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/GitAufgabe.pdb
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/GitAufgabe.genruntimeconfig.cache
+/Users/jonasmueller/Desktop/Jonas-Mueller/GitAufgabe/obj/Debug/net10.0/ref/GitAufgabe.dll
